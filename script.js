@@ -4,3 +4,4 @@ let resultado = num_a + num_b
 console.log(resultado)
 
 // console.log("que onda")
+
